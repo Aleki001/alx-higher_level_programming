@@ -4,4 +4,3 @@ for x in range(26):
         print('{:c}'.format(122 - x), end='')
     else:
         print('{:c}'.format(90 - x), end='')
-
